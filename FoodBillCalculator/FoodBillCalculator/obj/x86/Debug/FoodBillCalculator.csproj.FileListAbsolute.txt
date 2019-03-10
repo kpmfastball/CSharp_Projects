@@ -1,0 +1,6 @@
+/Users/KevinMurphy/Projects/FoodBillCalculator/FoodBillCalculator/bin/Debug/FoodBillCalculator.exe
+/Users/KevinMurphy/Projects/FoodBillCalculator/FoodBillCalculator/bin/Debug/FoodBillCalculator.pdb
+/Users/KevinMurphy/Projects/FoodBillCalculator/FoodBillCalculator/obj/x86/Debug/FoodBillCalculator.csprojAssemblyReference.cache
+/Users/KevinMurphy/Projects/FoodBillCalculator/FoodBillCalculator/obj/x86/Debug/FoodBillCalculator.csproj.CoreCompileInputs.cache
+/Users/KevinMurphy/Projects/FoodBillCalculator/FoodBillCalculator/obj/x86/Debug/FoodBillCalculator.exe
+/Users/KevinMurphy/Projects/FoodBillCalculator/FoodBillCalculator/obj/x86/Debug/FoodBillCalculator.pdb
